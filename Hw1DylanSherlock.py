@@ -38,3 +38,4 @@ print(coin_arrays)
 find_fake_coin(coin_arrays)  # this needs to return the index of the false coin
 
 # Dylan Sherlock (S#00355174)
+#This code was written to solve the fake coin problem reading from a text file where the weights are stored.
