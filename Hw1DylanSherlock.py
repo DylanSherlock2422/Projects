@@ -33,7 +33,7 @@ def find_fake_coin(coin_arrays):
         print("The index of the fake coin is in the first array at index", fake_coin1)
 
 
-# Calling Functions to check
+# Calling Functions
 print(coin_arrays)
 find_fake_coin(coin_arrays)  # this needs to return the index of the false coin
 
